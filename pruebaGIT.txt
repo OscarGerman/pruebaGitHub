@@ -2,4 +2,4 @@ Esta es la prueba para ver cómo funciona
 
 GIT y aprender la manera en que se trabaja
 
-desde la terminal.
+desde la terminal y con comandos.
